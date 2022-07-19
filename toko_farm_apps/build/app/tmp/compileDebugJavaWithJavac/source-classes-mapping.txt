@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/toko_farm_apps/BuildConfig.java
+ com.example.toko_farm_apps.BuildConfig
